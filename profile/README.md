@@ -1,6 +1,19 @@
-# Project Saksham
+# About
 
-Single point solution for communication gap between blind, deaf, mute and normal population. Application is able to convert sign language, voice, braille & text to each other which enables almost everyone to be able to communicate with anyone.
+There are __% of popolation in this world who are not able to communicate with the normal people due to their disability because they are either blind, mute and deaf. Project Saksham is an innovative idea intended to remove the communication gap between blind, deaf, mute and normal population. 
+
+Project saksham is an invention that uses the power of artificial intelligence to translate braille, sign language, voice and text to each other so that anyone can chose the language in which they are comfortable with to communicate with the other person. 
+
+# Contributors
+
+1. [Birkam Pratim Bhuyan]()
+2. [Utkarsh Gupta](www.google.com)
+3. [Aradhya Singh]()
+4. [Tanu Sharma]()
+
+# Technology Stack
+
+
 
 <!--
 
